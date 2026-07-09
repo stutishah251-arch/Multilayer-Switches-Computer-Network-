@@ -1,13 +1,13 @@
-#Network Security Fundamentals
+# Network Security Fundamentals
 
-##🌐Introduction
+## 🌐Introduction
 Networks are the backbone og communication, commerce and collabration in the digital age. Secure networking is essential to send emails, process financial transactions,
 stream videos. But Connectivity has its Achilles heel. Cybercriminals take advantage of vulnerabilities to steal data, disrupt services or gain unauthorized access. The 
 fundamentals of network security lay the foundation for security of systems and the trustworthiness of digital communications.
 
 This article is a complete guide for students, professionals and organizations, to study the concepts, components, threts and best practices of network security.
 
-##🔑Core Principles of Network Security
+## 🔑Core Principles of Network Security
 Network security relies on five essential pillars:
 
 1. **Confidentiality**
@@ -34,7 +34,7 @@ Network security relies on five essential pillars:
    - When a person cannot deny having performed some actions.
    - The techniques used: digital signatures and audit logs.
 
-##🛡️Key Concepts of Network Security
+## 🛡️Key Concepts of Network Security
 The following key elements ensure the realization of these principles:
 
 1. **Firewalls**: An infrastructure that regulates the pointless connection between the secure and the untrusted networks.
@@ -44,7 +44,7 @@ The following key elements ensure the realization of these principles:
 5. **Antivirus & Anti-Malware**: Protects computers from harmful software.
 6. **Patch Management**: Involves regular system updates.
 
-##🚨Common Threats to Network
+## 🚨Common Threats to Network
 Familiarity with threats is vital for protection.
 
 1. **Phishing and Social Engineering**: Mislead users into giving out passwords.
@@ -54,7 +54,7 @@ Familiarity with threats is vital for protection.
 5. **Insider Threats**: Employees who attack or make mistakes in connection with violations of security protocol will have an insider threat because they will be the source of the attack.
 6. **Zero-Day Exploits**: Threats utilizing an unknown vulnerability.
 
-##📊Finding the right balance between **security and usability** is the primary challenge for network security:
+## 📊Finding the right balance between **security and usability** is the primary challenge for network security:
 
 - The need for strong encryption may entail a performance hit.
 - Deep packet inspection means that data will take longer to be transferred.
@@ -62,7 +62,7 @@ Familiarity with threats is vital for protection.
 
 Therefore, an organization needs to implement **layered security** solutions to ensure effective protection with a minimal loss of efficiency.
 
-##✅Best Approches for Network Security System
+## ✅Best Approches for Network Security System
 To enhance the security, organizations can use the methods below:
 
 - **Threat Mdole**: Define the potential threats and prioritize the ways of counteracting them.
@@ -74,7 +74,7 @@ To enhance the security, organizations can use the methods below:
 - **Universal Encryption**: Protect data both in storage and transmission.
 - **Segmentation**: Divide the network into separate sectors to prevent attackers.
 
-##🔮The Future of Securing Networks
+## 🔮The Future of Securing Networks
 As we advance with our technology, we witness the emergence of new challenges. Here are some of the latest trends to keep an eye on: 
 
 - ***AI in Security***: Using automation to identify possible threats quickly. 
@@ -84,7 +84,7 @@ As we advance with our technology, we witness the emergence of new challenges. H
 
 So, we need innovative, intelligent, and forward-thinking approaches to ensuring network security.
 
-##📌 Conclusion
+## 📌 Conclusion
 To sum up, the key tenets of network security are all about **safeguarding information, guaranteeing security, and maintaining stability**. Organizations can bolster 
 their defenses against new risks through onfidentiality, integrity, availability, authentication, and non-repudiation. When it comes to setting up secure networks, it 
 is necessary to create various layers of protection, conduct continuous surveillance, and tweak the process on an ongoing basis.
